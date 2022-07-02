@@ -74,7 +74,9 @@ Since you have finished all the modifications, now it is time to push your chang
 
 **Note :** before pushing, make sur that nothing has been changed yet in the **original remote repository**.
 
-After verifying and pushing, verify again if all the files has been pushed in **your remote repository**.
+You will notice that the instructor added a new file called `script.py`, and it has been added and merged within your created branch. In order to push correctly the master branch, you will need to updated to latest **original remote repository**, the idea of course is to rebase it !
+
+After rebasing, verifying and pushing, verify again if all the files has been pushed in **your remote repository**.
 
 ## Step 7 : Ask fo validation
 
